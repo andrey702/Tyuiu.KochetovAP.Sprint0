@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -10,6 +10,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{1DECC722-6A4C-4E0E-9A6D-CA73D454DD6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyiu.KochetovAP.Sprint.Task0.V0", "Tyiu.KochetovAP.Sprint.Task0.V0\Tyiu.KochetovAP.Sprint.Task0.V0.csproj", "{52905852-D2A0-49E7-A539-2FC315456352}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{9BB22FE6-8FD8-466C-B97F-5681BF2DFD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KochetovAP.Sprint1.Task1.V0", "Tyuiu.KochetovAP.Sprint1.Task1.V0\Tyuiu.KochetovAP.Sprint1.Task1.V0.csproj", "{4904EB9D-3CC7-419D-967D-34D0B33D2B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{52905852-D2A0-49E7-A539-2FC315456352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52905852-D2A0-49E7-A539-2FC315456352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52905852-D2A0-49E7-A539-2FC315456352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4904EB9D-3CC7-419D-967D-34D0B33D2B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4904EB9D-3CC7-419D-967D-34D0B33D2B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4904EB9D-3CC7-419D-967D-34D0B33D2B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4904EB9D-3CC7-419D-967D-34D0B33D2B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +41,7 @@ Global
 		{78873879-50CC-4EA3-B7EC-C095A0301332} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1DECC722-6A4C-4E0E-9A6D-CA73D454DD6A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{52905852-D2A0-49E7-A539-2FC315456352} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4904EB9D-3CC7-419D-967D-34D0B33D2B96} = {9BB22FE6-8FD8-466C-B97F-5681BF2DFD0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B7FF864-CB80-473D-A817-BC90C17255DF}
